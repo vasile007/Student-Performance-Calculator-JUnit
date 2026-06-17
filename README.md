@@ -4,6 +4,10 @@
 
 This project is a simple Java application that calculates student academic performance based on assessment scores.
 
+## Diagrame
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bd2e5c74-6a20-4961-9d8c-fdf08665dae7" />
+
+
 The system:
 - Calculates the average mark
 - Determines pass or fail status
