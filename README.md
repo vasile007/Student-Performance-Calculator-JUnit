@@ -5,7 +5,7 @@
 This project is a simple Java application that calculates student academic performance based on assessment scores.
 
 ## Diagrame
-<img width="700" height="800" alt="image" src="https://github.com/user-attachments/assets/bd2e5c74-6a20-4961-9d8c-fdf08665dae7" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/bd2e5c74-6a20-4961-9d8c-fdf08665dae7" />
 
 
 The system:
