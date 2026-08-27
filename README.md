@@ -25,12 +25,12 @@ Core functionality includes:
 
 
 
-## Diagrame
-<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/15ba966a-7e2e-4efc-bd5f-0239fd430906" />
+
 
 ## Application Flow
 
-![Student Performance Calculator Diagram](YOUR_IMAGE_PATH_HERE)
+## Diagrame
+<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/15ba966a-7e2e-4efc-bd5f-0239fd430906" />
 
 The application follows a simple flow:
 
